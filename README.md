@@ -29,3 +29,12 @@ pinn-schrodinger-solver/
     ├── __init__.py      # Package marker
     ├── model.py         # Multi-Layer Perceptron architecture
     └── physics.py       # Automatic differentiation & residual loss
+
+
+## Results & Visualization
+
+### Wavefunction Dynamics $|\psi(x, t)|$
+![Schrödinger Solution](schrodinger_solution.png)
+
+### Training Loss Convergence
+![Loss Curve](loss_curve.png)
