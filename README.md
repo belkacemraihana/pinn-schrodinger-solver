@@ -22,11 +22,10 @@ $$\mathcal{L}_{\text{total}} = \mathcal{L}_{\text{IC}} + \mathcal{L}_{\text{BC}}
 
 ```text
 pinn-schrodinger-solver/
-├── environment.yml       # Conda environment configuration
-├── train.py              # Main training pipeline and execution
-├── README.md             # Project documentation
+├── environment.yml      # Conda environment configuration
+├── train.py             # Main training pipeline and execution
+├── README.md            # Project documentation
 └── src/
-    ├── __init__.py       # Package marker
-    ├── model.py          # Multi-Layer Perceptron architecture
-    └── physics.py        # Automatic differentiation & residual loss
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/fb5624db-328c-47f9-8140-68a3cfd28da1" />
+    ├── __init__.py      # Package marker
+    ├── model.py         # Multi-Layer Perceptron architecture
+    └── physics.py       # Automatic differentiation & residual loss
