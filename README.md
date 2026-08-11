@@ -29,3 +29,4 @@ pinn-schrodinger-solver/
     ├── __init__.py       # Package marker
     ├── model.py          # Multi-Layer Perceptron architecture
     └── physics.py        # Automatic differentiation & residual loss
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/fb5624db-328c-47f9-8140-68a3cfd28da1" />
